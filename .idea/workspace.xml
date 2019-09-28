@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6178aadb-a9cc-4409-b862-3ecf79082a2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proiecte.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/framework/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/framework/HelperMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/teste/HoverWaitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/teste/ListWebElementsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/teste/Register_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/inputdata/Inputdata.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/framework/BaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/framework/HelperMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/inputdata/Inputdata.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/teste/HoverWaitTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/teste/ListWebElementsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/teste/Register_test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/framework/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/framework/BaseTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/framework/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="323">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1747#1748#0" expanded="true" />
@@ -409,8 +391,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/framework/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="323">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1747#1748#0" expanded="true" />

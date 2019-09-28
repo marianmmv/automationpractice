@@ -17,6 +17,7 @@ public class BaseTest {
     public FileInputStream file;
     public static Properties property;
    // comentariu pentru GITHUB
+    // a doua modificare
     //folosire @Before
     @Before
     public void Setup() throws IOException {
