@@ -18,6 +18,8 @@ public class BaseTest {
     public static Properties property;
    // comentariu pentru GITHUB
     // a doua modificare
+
+    // a aparut o alta modificare!!!!!!!
     //folosire @Before
     @Before
     public void Setup() throws IOException {
